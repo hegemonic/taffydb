@@ -1,5 +1,5 @@
 {
-  "name": "taffydb-jsdoc",
+  "name": "taffydb",
   "version": "2.6.2",
   "description": "An open-source library that brings database features into your JavaScript applications.",
   "main": "taffy.js",
